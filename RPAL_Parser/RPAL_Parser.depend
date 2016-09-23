@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457668213 source:c:\c++\rpal_parser\rpal_parser\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<sstream>
+	<stack>
+
